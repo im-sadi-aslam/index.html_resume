@@ -1,0 +1,9 @@
+.About{
+    padding: 80px;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+.heading{
+    font-size: 80px;
+}
